@@ -44,19 +44,21 @@ Progress Harian
 Daily Scrum
 (Fitra Febryan Ramadhan Saragih):
 1. Semalam saya.. 
-2. Hari ini saya.. 
-3. Saya ada kendala di.. 
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
 
 (Doli Imam Anggara):
 1. Semalam saya.. 
-2. Hari ini saya.. 
-3. Saya ada kendala di.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
 
 (Shofwan Hanief Tanjung):
 
 1. Semalam saya.. 
-2. Hari ini saya.. 
-3. Saya ada kendala di.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
 
 (Albert Paul):
 1. Semalam saya.. 
