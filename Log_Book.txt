@@ -1,0 +1,332 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: 	AERO_7
+Judul Topik  : 	Sejarah Perkembangan Prosesor Intel
+Alamat Github:	https://github.com/ryan-saragih/AERO_7_TKPPL.git
+Alamat Trello:	https://trello.com/b/8zoMvkaE/aero-7-tkppl
+Anggota 1: 
+	Nama	: Fitra Febryan Ramadhan Saragih
+	NIM	: 12.111.1877
+Anggota 2:
+	Nama	: Albert Paul
+	NIM	: 12.111.2767
+Anggota 3:
+	Nama	: Doli Imam Anggara
+	NIM	: 12.111.2473
+Anggota 4:
+	Nama	: Shofwan Hanief Tanjung
+	NIM	: 12.111.1648
+=======================
+
+SPRINT
+------
+Sprint 1: 
+2/6 - 4/6
+Scrummaster: Fitra Febryan Ramadhan Saragih (12.111.1877)
+
+Sprint 2:
+5/6 - 7/6
+Scrummaster: Doli Imam Anggara (12.111.2473)
+
+Sprint 3: 
+9/6 - 11/6
+Scrummaster:Shofwan Hanief Tanjung (12.111.1648)
+
+Sprint 4:
+12/6 - 14 /6
+Scrummaster:Albert Paul (12.111.2767)
+
+Progress Harian
+------------------------------------
+
+2/6 
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+------------------------------------
+
+3/6 
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+------------------------------------
+
+4/6
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+------------------------------------
+
+5/6 
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+------------------------------------
+
+6/6 
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+------------------------------------
+
+7/6
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+------------------------------------
+
+9/6 
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+------------------------------------
+
+10/6 
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+------------------------------------
+
+11/6 
+Daily Scrum
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+------------------------------------
+
+12/6 
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+------------------------------------
+
+13/6 
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+------------------------------------
+
+14/6 
+Daily Scrum
+(Fitra Febryan Ramadhan Saragih):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Doli Imam Anggara):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Shofwan Hanief Tanjung):
+
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di.. 
+
+(Albert Paul):
+1. Semalam saya.. 
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+
