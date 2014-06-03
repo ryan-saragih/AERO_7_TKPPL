@@ -62,32 +62,32 @@ Daily Scrum
 
 (Albert Paul):
 1. Semalam saya.. 
-2. Hari ini saya.. 
-3. Saya ada kendala di.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
 ------------------------------------
 
 3/6 
 Daily Scrum
 (Fitra Febryan Ramadhan Saragih):
-1. Semalam saya.. 
-2. Hari ini saya.. 
-3. Saya ada kendala di.. 
+1. Semalam saya.. mengerjakan opening & intro (index.jade & main.styl)
+2. Hari ini saya.. mengerjakan intro_2 & 1971
+3. Saya ada kendala di.. tidak ada
 
 (Doli Imam Anggara):
-1. Semalam saya.. 
-2. Hari ini saya.. 
-3. Saya ada kendala di.. 
+1. Semalam saya.. menambahkan isi intro
+2. Hari ini saya.. mengerjakan 1971 & menambah gambar
+3. Saya ada kendala di.. ketika menjalankan grunt server,tampilan hanya hitam.
 
 (Shofwan Hanief Tanjung):
 
-1. Semalam saya.. 
-2. Hari ini saya.. 
-3. Saya ada kendala di.. 
+1. Semalam saya.. menambahkan isi intro
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
 
 (Albert Paul):
-1. Semalam saya.. 
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+1. Semalam saya.. tidak ada
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di..tidak ada
 ------------------------------------
 
 4/6
